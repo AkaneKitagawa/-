@@ -1,0 +1,20 @@
+@font-face {
+    font-family: 'Dunbar Text';
+    font-style: normal;
+    font-weight: 400;
+    src: local('Dunbar Text'), url('https://fonts.cdnfonts.com/s/38325/DUNBARTEXTREGULAR.woff') format('woff');
+}
+@font-face {
+    font-family: 'Dunbar Text';
+    font-style: normal;
+    font-weight: 700;
+    src: local('Dunbar Text'), url('https://fonts.cdnfonts.com/s/38325/DUNBARTEXTBOLD.woff') format('woff');
+}
+@font-face {
+    font-family: 'Dunbar Text';
+    font-style: normal;
+    font-weight: 700;
+    src: local('Dunbar Text'), url('https://fonts.cdnfonts.com/s/38325/DUNBARTEXTEXTRA_BOLD.woff') format('woff');
+}
+
+
